@@ -22,14 +22,14 @@ node index.js
 ## 目标
 将ttf字体文件转换为woff，eot，svg等格式，因为svg转换后文件过大，因此优化后输出到compress目录中。
 
-## 引用
-- 1.fontmin：
+## 参考引用
+- fontmin：
 https://github.com/ecomfe/fontmin#ttf2svg
-- 2.字蛛：
+- 字蛛：
 http://font-spider.org
-- 3.imagemin：
+- imagemin：
 https://github.com/imagemin
-- 4.svg图片压缩：
+- svg图片压缩：
 https://github.com/imagemin/imagemin-svgo
 
 ## web font终级解决方案
